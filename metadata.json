@@ -1,0 +1,6 @@
+{
+  "name": "invex",
+  "description": "Supplementary answer sheet tracking and management for teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
